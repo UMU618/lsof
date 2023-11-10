@@ -1,0 +1,7 @@
+bak/
+tmp/
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
